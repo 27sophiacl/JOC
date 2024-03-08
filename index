@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div class="header">
+  <h2>Sophia's Blog</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <h5>All about me:</h5>
+      
+      <img src="https://images.heb.com/is/image/HEBGrocery/001616096-1" height=300px align=center>
+      <p>I love instant ramen. If this computer was instant ramen I would eat it. If my phone was an instant ramen I would have no choice but to eat it. I also like strawberry milk.</p>
+    </div>
+    <div class="card">
+      <h2>Movie Review</h2>
+      <h5>Linsanity: Review</h5>
+      <img src="https://m.media-amazon.com/images/M/MV5BMjAxNzU4ODM3Nl5BMl5BanBnXkFtZTgwNTIwMTEyMDE@._V1_.jpg" height=300px align=center>
+      <br>
+      <p>"Linsanity "Linsanity is a 2013 American documentary film about the rise of Asian-American basketball player Jeremy Lin. The film was directed by Evan Jackson Leong."</p>
+      <p>Linsanity was a really good documentery. It was very inspiring, and Jeremy Lin is a great basketball player. I watched this doc for a camp program and everyone agreed that this was one of the better movies we had to watch. It was very good. You should watch it.</p>
+      <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpTUXfgaBlsw&psig=AOvVaw3JxMBoMPmweDCsIvtrP6GA&ust=1709677360703000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID5t9DS24QDFQAAAAAdAAAAABAD">trailer</a> 
+    </div>
+  </div>
+  <div class="rightcolumn">
+      <h2>Book Review</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg" height=300px align=center>
+      <p>I read To Kill a Mockingbird for 8th grade english. It is considered a classic for literature and is a book. It is about Scout. The name Scout is arguably a pretty cool one. I'm pretty sure thats not her real name but that's chill. Still a cool nickname. Atticus is also a pretty cool name. </p>
+    </div>
+
+      <h3>Frequented Sites</h3>
+      <div class="fakeimg"><a href = "https://www.wikipedia.org/">wikipedia</a>
+</div><br>
+      <div class="fakeimg"><a href = "https://open.spotify.com/">spotify</a>
+</div><br>
+      <div class="fakeimg"><a href = "https://piedmont.schoology.com/home">schoology</a>
+</div>
+    </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2><a href = "https://docs.google.com/forms/d/e/1FAIpQLSeJIyKu5zZb9bmZImCzB-ukI-eFFcw8-l-fFRC_llq1DN_6Eg/viewform?usp=sf_link">questions, comments, concerns</a></h2>
+</div>
+
+</body>
+</html>
